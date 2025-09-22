@@ -1,0 +1,8 @@
+#R Markdown File for Practice Assignment 1
+
+##This file is meant to explain the code for this assignment.
+
+for (i in 1:10){ 
+print(i) 
+}
+
